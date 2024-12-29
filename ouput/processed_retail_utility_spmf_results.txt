@@ -1,0 +1,18 @@
+Results of ITUFP Algorithm
+==================================================
+Top-10 High-Utility Itemsets:
+==================================================
+1. Itemset: 40,49 | Total Utility: 481021.00 | Expected Support: 7374.69
+2. Itemset: 49 | Total Utility: 463274.00 | Expected Support: 21320.30
+3. Itemset: 40 | Total Utility: 278489.00 | Expected Support: 25538.01
+4. Itemset: 33 | Total Utility: 251640.00 | Expected Support: 7647.21
+5. Itemset: 40,42 | Total Utility: 250893.00 | Expected Support: 2852.89
+6. Itemset: 42 | Total Utility: 246819.00 | Expected Support: 7482.03
+7. Itemset: 49,33 | Total Utility: 221755.00 | Expected Support: 2074.01
+8. Itemset: 49,39 | Total Utility: 174526.00 | Expected Support: 2054.43
+9. Itemset: 39 | Total Utility: 169948.00 | Expected Support: 7968.31
+10. Itemset: 40,39 | Total Utility: 169824.00 | Expected Support: 2680.63
+==================================================
+Execution Time: 3570.04 seconds
+Memory Usage: 52.05 MB
+==================================================

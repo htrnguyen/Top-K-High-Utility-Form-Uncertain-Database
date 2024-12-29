@@ -1,0 +1,58 @@
+Results of ITUFP Algorithm
+==================================================
+Top-50 High-Utility Itemsets:
+==================================================
+1. Itemset: 109,75 | Total Utility: 4803838.00 | Expected Support: 17127.86
+2. Itemset: 109,91 | Total Utility: 2970597.00 | Expected Support: 17261.61
+3. Itemset: 75 | Total Utility: 2955896.00 | Expected Support: 33891.42
+4. Itemset: 109,37 | Total Utility: 2953839.00 | Expected Support: 17173.86
+5. Itemset: 72 | Total Utility: 2904216.00 | Expected Support: 33240.42
+6. Itemset: 52 | Total Utility: 2506364.00 | Expected Support: 32811.50
+7. Itemset: 109,127 | Total Utility: 2228526.00 | Expected Support: 17262.26
+8. Itemset: 109,88 | Total Utility: 2211679.00 | Expected Support: 17203.95
+9. Itemset: 109 | Total Utility: 1860640.00 | Expected Support: 34192.70
+10. Itemset: 115 | Total Utility: 1857562.00 | Expected Support: 24299.29
+11. Itemset: 19 | Total Utility: 1848630.00 | Expected Support: 33810.67
+12. Itemset: 82 | Total Utility: 1711635.00 | Expected Support: 31528.47
+13. Itemset: 46 | Total Utility: 1452030.00 | Expected Support: 26681.53
+14. Itemset: 34 | Total Utility: 1437060.00 | Expected Support: 32859.61
+15. Itemset: 13 | Total Utility: 1352416.00 | Expected Support: 31099.35
+16. Itemset: 76 | Total Utility: 1351788.00 | Expected Support: 20622.92
+17. Itemset: 79 | Total Utility: 1225064.00 | Expected Support: 28118.92
+18. Itemset: 10 | Total Utility: 1214616.00 | Expected Support: 27832.39
+19. Itemset: 91 | Total Utility: 1113693.00 | Expected Support: 34171.54
+20. Itemset: 37 | Total Utility: 1108080.00 | Expected Support: 33927.62
+21. Itemset: 85 | Total Utility: 1081311.00 | Expected Support: 33056.84
+22. Itemset: 16 | Total Utility: 1079964.00 | Expected Support: 33002.48
+23. Itemset: 69 | Total Utility: 1042176.00 | Expected Support: 31836.67
+24. Itemset: 31 | Total Utility: 1010898.00 | Expected Support: 30914.76
+25. Itemset: 49 | Total Utility: 1001199.00 | Expected Support: 30650.41
+26. Itemset: 100 | Total Utility: 997092.00 | Expected Support: 30456.21
+27. Itemset: 28 | Total Utility: 899106.00 | Expected Support: 27540.49
+28. Itemset: 58 | Total Utility: 862440.00 | Expected Support: 9836.25
+29. Itemset: 24 | Total Utility: 855450.00 | Expected Support: 13095.59
+30. Itemset: 97 | Total Utility: 842943.00 | Expected Support: 25828.14
+31. Itemset: 7 | Total Utility: 716421.00 | Expected Support: 22007.23
+32. Itemset: 103 | Total Utility: 712378.00 | Expected Support: 32807.90
+33. Itemset: 41 | Total Utility: 628758.00 | Expected Support: 9725.31
+34. Itemset: 23 | Total Utility: 437068.00 | Expected Support: 10071.03
+35. Itemset: 44 | Total Utility: 413494.00 | Expected Support: 19119.61
+36. Itemset: 94 | Total Utility: 376458.00 | Expected Support: 17261.28
+37. Itemset: 127 | Total Utility: 370823.00 | Expected Support: 34137.77
+38. Itemset: 55 | Total Utility: 370138.00 | Expected Support: 33703.14
+39. Itemset: 88 | Total Utility: 369101.00 | Expected Support: 33936.08
+40. Itemset: 124 | Total Utility: 367428.00 | Expected Support: 33685.70
+41. Itemset: 106 | Total Utility: 366817.00 | Expected Support: 33764.24
+42. Itemset: 22 | Total Utility: 358644.00 | Expected Support: 10933.31
+43. Itemset: 121 | Total Utility: 353332.00 | Expected Support: 32411.99
+44. Itemset: 118 | Total Utility: 323049.00 | Expected Support: 29662.21
+45. Itemset: 66 | Total Utility: 316826.00 | Expected Support: 29200.52
+46. Itemset: 59 | Total Utility: 315171.00 | Expected Support: 9615.10
+47. Itemset: 77 | Total Utility: 314379.00 | Expected Support: 9659.25
+48. Itemset: 63 | Total Utility: 257910.00 | Expected Support: 23677.85
+49. Itemset: 1 | Total Utility: 244437.00 | Expected Support: 22465.93
+50. Itemset: 25 | Total Utility: 227405.00 | Expected Support: 20745.43
+==================================================
+Execution Time: 3697.60 seconds
+Memory Usage: 478.32 MB
+==================================================
